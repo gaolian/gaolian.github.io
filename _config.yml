@@ -3,8 +3,8 @@ title: GaoLian's Blog
 SEOTitle: 高炼的博客 | GaoLian's Blog
 header-img: img/home-bg.jpg
 email: gaolian_buaa@163.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+description: "这里是高炼的个人博客。"
+keyword: "GaoLian，Edison_G"
 url: "https://gaolian.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -16,7 +16,7 @@ RSS: false
 #zhihu_username:     gaolian
 github_username:    gaolian
 #twitter_username:   gaolian
-#facebook_username:  huxpro
+#facebook_username:  gaolian
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -61,14 +61,14 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: gaolian.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "机器的眼，虚拟的城 <br>未来还未来"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "我常常在想，我们熟悉的事物是不是都有不为人知的一面。"
+sidebar-avatar: /img/gaolian.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
